@@ -9,7 +9,7 @@ import java.lang.annotation.Target;
 @Target(ElementType.TYPE)
 public @interface HtmlForm {
 
-    String method() default "get";
+    String method() default "POST";
 
     String action() default "/";
 
