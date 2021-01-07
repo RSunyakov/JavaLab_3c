@@ -18,9 +18,6 @@
                     <target>8</target>
                     <showWarnings>true</showWarnings>
                     <encoding>UTF-8</encoding>
-                   <!-- <generatedSourcesDirectory>
-                    /target/generated-sources
-                    </generatedSourcesDirectory>-->
                 </configuration>
                 <executions>
                     <execution>
